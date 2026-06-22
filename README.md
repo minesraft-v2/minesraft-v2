@@ -16,14 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="50" height="50" />
 
-MY GITHUB STATS: 
-
 ## MY GITHUB STATS:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/minesraft-v2/my-github-stats/master/generated/languages.svg)
 
-MY DISCORD, STATUS:
+# MY DISCORD, STATUS:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
