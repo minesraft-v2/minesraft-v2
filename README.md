@@ -18,6 +18,9 @@
 
 MY GITHUB STATS: 
 
+### 📊 Languages Used (By File Size)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 MY DISCORD, STATUS:
 
