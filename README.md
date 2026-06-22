@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/overview.svg)
+![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
 
 # MY DISCORD, STATUS:
 
