@@ -20,8 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/minesraft-v2/my-github-stats/master/generated/languages.svg)
-
+![](https://raw.githubusercontent.com/minesraft-v2/github-stats/master/generated/overview.svg)
 # MY DISCORD, STATUS:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
