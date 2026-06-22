@@ -18,12 +18,10 @@
 
 MY GITHUB STATS: 
 
-## 📊 My Coding Analytics
+## MY GITHUB STATS:
 
-### 🏆 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💾 Languages Used (By File Size)
 ![](https://raw.githubusercontent.com/minesraft-v2/my-github-stats/master/generated/languages.svg)
 
 MY DISCORD, STATUS:
