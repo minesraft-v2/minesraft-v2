@@ -18,7 +18,6 @@
 
 MY GITHUB STATS: 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&layout=compact&langs_count=20)
 
 MY DISCORD, STATUS:
 
