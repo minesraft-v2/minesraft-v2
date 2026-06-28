@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/assembly/assembly-original.svg" width="50" height="50" alt="Assembly Logo" />
+<img src="https://img.shields.io/badge/Assembly-A259FF?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Logo" />
   
 ## MY GITHUB STATS:
 
