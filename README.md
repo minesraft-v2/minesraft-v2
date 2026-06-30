@@ -1,4 +1,4 @@
-## Hello, I am currently learning these programming languages:
+## Hey I am currently learning these programming languages:
 
 ## WEBSITE UNBLOCKER
 
