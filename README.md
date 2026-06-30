@@ -35,3 +35,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/> &nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> &nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+<img src="https://img.shields.io/badge/Assembly-A259FF?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Logo" />
