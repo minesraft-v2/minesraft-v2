@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="50" height="50" />  
+<img src="https://img.shields.io/badge/Assembly-A259FF?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Logo" />
   
 # MY GITHUB STATS:
   
@@ -26,12 +27,3 @@
 # MY DISCORD STATUS:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
-
-
-# TOOLS I WORK WITH:
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/> &nbsp;&nbsp; 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
-<img src="https://img.shields.io/badge/Assembly-A259FF?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Logo" />
