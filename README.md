@@ -1,4 +1,4 @@
-## Hey I am currently learning these programming languages:
+## Hey, I know these langs:
 
 ## WEBSITE UNBLOCKER
 
