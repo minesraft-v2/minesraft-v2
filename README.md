@@ -18,7 +18,7 @@
   
 # MY GITHUB STATS:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
 
@@ -30,5 +30,5 @@
 <p align="center">
   <img src="https://github-readme-stats-eta-inky-96.vercel.app/api?username=minesraft-v2&show_icons=true&theme=radical" alt="minesraft-v2's GitHub Stats" height="195" />
 
-  <img src="https://github-readme-stats-eta-inky-96.vercel.app/api/top-langs/?username=minesraft-v2&layout=compact&theme=radical" alt="minesraft-v2's Top Languages" height="195" />
+  <img src="https://github-readme-stats-eta-inky-96.vercel.app/api/top-langs/?username=minesraft-v2&layout=compact&theme=radical&langs_count=20" alt="minesraft-v2's Top Languages" height="195" />
 </p>
