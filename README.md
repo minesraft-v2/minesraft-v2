@@ -25,3 +25,6 @@
 # MY DISCORD STATUS:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
+
+
+<p align="center"> <img src="https://github-readme-stats-eta-inky-96.vercel.app/api?username=ischigo07&show_icons=true&theme=radical" alt="ischigo07's GitHub Stats" height="195" /> <img src="https://github-readme-stats-eta-inky-96.vercel.app/api/top-langs/?minesraft-v2=ischigo07&layout=compact&theme=radical" alt="ischigo07's Top Languages" height="195" /> </p>
