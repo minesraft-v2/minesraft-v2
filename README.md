@@ -17,8 +17,9 @@
 <img src="https://img.shields.io/badge/Assembly-A259FF?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Logo" />
   
 # MY GITHUB STATS:
-  
 
+ <img src="https://github-readme-stats-eta-inky-96.vercel.app/api/top-langs/?username=minesraft-v2&layout=compact&theme=radical&langs_count=20" alt="minesraft-v2's Top Languages" width="450" />
+</p>
 
 ![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
 
@@ -26,7 +27,4 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
-
-
-  <img src="https://github-readme-stats-eta-inky-96.vercel.app/api/top-langs/?username=minesraft-v2&layout=compact&theme=radical&langs_count=20" alt="minesraft-v2's Top Languages" height="195" />
-</p>
+  
