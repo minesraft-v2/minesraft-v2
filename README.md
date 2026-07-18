@@ -18,8 +18,7 @@
   
 # MY GITHUB STATS:
 
- <img src="https://github-readme-stats-eta-inky-96.vercel.app/api/top-langs/?username=minesraft-v2&layout=compact&theme=radical&langs_count=20" alt="minesraft-v2's Top Languages" width="450" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
 
