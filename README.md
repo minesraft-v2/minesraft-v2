@@ -18,7 +18,7 @@
   
 # MY GITHUB STATS:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minesraft-v2&langs_count=20&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/minesraft-v2/github-stats/generated/languages.svg)
 
