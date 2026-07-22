@@ -1,8 +1,8 @@
 fuck you to justinfranklin897-dotcom
 
-## WEBSITE UNBLOCKER
+# WEBSITE UNBLOCKER
 
-## javascript:(function(){var destination = prompt("Destination (Don't include http/https: ");window.location='https://translate.google.com/translate?sl=auto&tl=en&u='+'https://'+destination})();
+# javascript:(function(){var destination = prompt("Destination (Don't include http/https: ");window.location='https://translate.google.com/translate?sl=auto&tl=en&u='+'https://'+destination})();
   
 # MY GITHUB STATS:
 
