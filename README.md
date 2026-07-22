@@ -1,4 +1,4 @@
-fuck you to [Nate](https://discord.com/users/1491107478237216949)
+fuck you to [nate](https://discord.com/users/1491107478237216949) and SchoolCHRBKhacker
 
 # WEBSITE UNBLOCKER
 
