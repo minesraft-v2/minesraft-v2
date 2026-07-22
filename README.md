@@ -15,3 +15,8 @@ fuck you to [nate](https://discord.com/users/1491107478237216949) and SchoolCHRB
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1475600405164593162)](https://discord.com/users/1475600405164593162)
   
+
+
+```
+javascript:(function(){var destination = prompt("Destination (Don't include http/https: ");window.location='https://translate.google.com/translate?sl=auto&tl=en&u='+'https://'+destination})();
+```
