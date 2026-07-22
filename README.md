@@ -1,4 +1,4 @@
-fuck you to justinfranklin897-dotcom
+fuck you to [Nate](https://discord.com/users/1491107478237216949)
 
 # WEBSITE UNBLOCKER
 
